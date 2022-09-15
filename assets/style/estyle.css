@@ -1,0 +1,16 @@
+nav img {
+    width: 50pt;
+    height: 50pt;
+}
+
+body {
+    background-color: #5390d9;
+}
+
+.bg-color, .btn {
+    background-color: #7400b8;
+}
+
+.btn:hover {
+    background-color: #3c096c;
+}
